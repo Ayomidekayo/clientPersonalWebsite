@@ -6,7 +6,7 @@ import { Download, ShoppingCart, MessageCircle } from "lucide-react";
 
 const books = [
   {
-    title: "Speed Reading & Academic Excellence",
+    title: "BECOME A SPEED READER ",
     author: "Harry Owanaba",
     image: "/assets/speed-reader.jpg",
     price: "₦5,000",
@@ -34,7 +34,7 @@ const books = [
     ],
   },
   {
-    title: "ROAD MAP TO ACADEMIC EXELLENCE newest",
+    title: "THE ROADMAP TO ACADEMIC EXCELLENCE",
     author: "Harry Owanaba",
     image: "/assets/excellent.jpg",
     price: "₦6,000",
